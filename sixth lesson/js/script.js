@@ -1,4 +1,4 @@
-let start = document.querySelector('#start'),
+let starts = document.querySelector('#start'),
     budgetValue = document.querySelector('.budget-value'),
     daybudgetValue = document.querySelector('.daybudget-value'),
     levelValue = document.querySelector('.level-value'),
@@ -17,7 +17,7 @@ let start = document.querySelector('#start'),
     monthValue = document.querySelector('month-value'),
     dayValue = document.querySelector('.day-value');
 
-    
+
 let money, time;
 
 function start() {
