@@ -23,3 +23,15 @@
     background-color: yellow;
     border: none;
   }
+  .box1 {
+    overflow: scroll;
+    width: 300px;
+    height: 300px;
+    border: 15px solid green;
+    padding: 5px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+  .btn1 {
+    margin: 0 auto;
+  }
